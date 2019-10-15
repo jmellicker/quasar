@@ -4,7 +4,7 @@ desc: How to differentiate the runtime procedure based on process.env in a Quasa
 ---
 
 Accessing `process.env` can help you in many ways:
-  * differentiating runtime procedure depending on Quasar Mode (SPA/PWA/Cordova/Electron)
+  * differentiating runtime procedure depending on Quasar Mode (SPA/PWA/Cordova/Capacitor/Electron)
   * differentiating runtime procedure depending if running a dev or production build
   * adding flags to it based on terminal environment variables at build time
 
